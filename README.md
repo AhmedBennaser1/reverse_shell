@@ -3,7 +3,7 @@ For changing the rat.py into an executable File execute
 
 
 
-1-pip install PyInstaller
+1-pip install PyInstaller <br>
 2-pyinstaller rat.py --noconsole --onefile
 
 <h3>Still upgradable</h3>
